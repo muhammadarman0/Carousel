@@ -37,8 +37,17 @@ let third = new Review(
 - Ensure the project works when copied and run in a browser`
 )
 
+let fourth = new Review(
+    `https://avatars.githubusercontent.com/u/140997677?v=4`,
+    "Hasan Coder",
+    "Full stack Developer",
+    `- Provide complete code for all files
+- Do not skip any part
+- Ensure the project works when copied and run in a browser`
+)
 
-let contruster = [firest, second, third];
+
+let contruster = [firest, second, third, fourth];
 
 let imgs = document.getElementById("person-img");
 let author = document.getElementById("author");
