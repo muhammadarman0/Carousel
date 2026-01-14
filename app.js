@@ -7,7 +7,7 @@ function Review(img, name, job, info) {
 }
 
 let firest = new Review(
-    `https://instagram.fkhi2-2.fna.fbcdn.net/v/t51.2885-19/572549249_17850325515583424_6877528917285174923_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjUuYzIifQ&_nc_ht=instagram.fkhi2-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEm3OhOlGUmdiA8lMQcWwvq1x7iPsqKUKX8e73rbd-UT-YG6SUeVYCawyh5Ol1Jsqo&_nc_ohc=7fx_knW2MpcQ7kNvwF0JaF6&_nc_gid=yVkUuLe4nep4dDlZ4EgR4w&edm=ACE-g0gBAAAA&ccb=7-5&oh=00_AfpAsa8cRmE8PYBRwMy2cCEi1G0i9o9Kg0Nj-Tynf1xdaA&oe=696D4946&_nc_sid=b15361file:///C:/Users/ansar/OneDrive/Pictures/DSC06484.jpg`,
+    `https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/1775dd87258277f275233da15d412966~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e5d0d695&x-expires=1768564800&x-signature=irs1o%2BBoX2KxN859JKMsRFlN2mQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2`,
     "Muhammad Arman Coder",
     "Web Developer",
     `- Clean and professional UI design
