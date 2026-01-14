@@ -7,7 +7,7 @@ function Review(img, name, job, info) {
 }
 
 let firest = new Review(
-    `https://instagram.fkhi2-2.fna.fbcdn.net/v/t51.2885-19/572549249_17850325515583424_6877528917285174923_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjUuYzIifQ&_nc_ht=instagram.fkhi2-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QFXTbEo1nyTpCGziBHz91jxYRixXqz1wcyZlfgxd-EQ8FEK_9kqw8T6vuqLBLAlKgI&_nc_ohc=7fx_knW2MpcQ7kNvwF0JaF6&_nc_gid=jmF0a1Z7MtnS91tNb33UYg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afr5_KJEuPyjisjDvve9jmEvLXCc81sJwCC99W-Y-zyq4w&oe=696D4946&_nc_sid=7a9f4b`,
+    `file:///C:/Users/ansar/OneDrive/Pictures/DSC06484.jpg`,
     "Muhammad Arman Coder",
     "Web Developer",
     `- Clean and professional UI design
