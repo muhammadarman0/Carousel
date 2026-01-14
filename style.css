@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f1f5f8;
+}
+
+.container {
+  width: 90vw;
+  max-width: 620px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+.underline {
+  width: 80px;
+  height: 4px;
+  background: #49a6e9;
+  margin: 10px auto 40px;
+}
+
+.review {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.img-container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+#person-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #49a6e9;
+}
+
+.quote {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background: #49a6e9;
+  color: #fff;
+  border-radius: 50%;
+  padding: 6px 10px;
+  font-size: 20px;
+}
+
+#author {
+  margin-top: 15px;
+  font-size: 1.3rem;
+}
+
+#job {
+  color: #49a6e9;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+#info {
+  color: #617d98;
+  line-height: 1.6;
+}
+
+.button-container {
+  margin: 15px 0;
+}
+
+.prev-btn,
+.next-btn {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  color: #49a6e9;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.random-btn {
+  background: #49a6e9;
+  color: #fff;
+  border: none;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
